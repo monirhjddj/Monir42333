@@ -1,7 +1,7 @@
 [
     {
         "domain": ".facebook.com",
-        "expirationDate": 1789453153.787647,
+        "expirationDate": 1789454146.238853,
         "hostOnly": false,
         "httpOnly": true,
         "name": "datr",
@@ -89,6 +89,18 @@
         "session": false,
         "storeId": null,
         "value": "61552905299432"
+    },
+    {
+        "domain": ".facebook.com",
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "ar_debug",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "1"
     },
     {
         "domain": ".facebook.com",
